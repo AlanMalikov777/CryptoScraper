@@ -1,4 +1,4 @@
-# CryptoScraper
+# Crypto Scraper
 Program that scraps information about specific cryptocurrenct. 
 
 # Installation
