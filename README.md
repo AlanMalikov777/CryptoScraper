@@ -18,7 +18,7 @@ python test.py
 ```
 Or copy all code from assignment1 file which located in src folder 
 # Examples
-You need to enter a specific cryptocurrency, for example, "ethereum" and program will give first 20 post about have written cryptocurrency by coingecko website:
+You need to enter a specific cryptocurrency, for example, "bitcoin", best case is using lower case letters, and program will give first 20 post about have written cryptocurrency by coingecko website:
 ``` bash
 Insert a cryptocurrency:bitcoin
 Site:
