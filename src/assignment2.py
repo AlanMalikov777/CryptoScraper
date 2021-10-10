@@ -1,7 +1,7 @@
 import requests #we need to import requests and BeautifulSoup 
 from bs4 import BeautifulSoup
 
-class scaper:# Class that prints 
+class scaper:#Class that scraps posts about specific cryptocurrencies 
     #please use lowercase letters
     name = input('Insert a cryptocurrency:')
     #take information from coinmarketcap.com a news page about given crypto
